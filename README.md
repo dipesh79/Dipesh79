@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dipeshkhanal_py" target="blank"><img src="https://img.shields.io/twitter/follow/dipeshkhanal_py?logo=twitter&style=for-the-badge" alt="dipeshkhanal_py" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://khanaldipesh.com.np](https://khanaldipesh.com.np)
+- 👨‍💻 All of my projects are available at [https://khanaldipesh.com.np](https://khanaldipesh.com.np/projects)
 
 - 📫 How to reach me **dipeshkhanal79@gmail.com**
 
