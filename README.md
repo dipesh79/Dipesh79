@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipesh79&show_icons=true&locale=en" alt="dipesh79" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipesh79&" alt="dipesh79" /></p>
+
+<a href="https://app.daily.dev/dipesh79"><img src="https://api.daily.dev/devcards/v2/taFbAHKkMKrPjlFu1Zg75.png?type=wide&r=03o" width="652" alt="Dipesh Khanal's Dev Card"/></a>
