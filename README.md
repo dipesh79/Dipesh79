@@ -6,6 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=dipesh79&label=Profile%20views&color=0e75b6&style=flat" alt="dipesh79" /> 
 </p>
 
+[![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b)](https://whyphp.dev)
+
+
 ### 👨‍💻 About Me  
 
 - 🔭 Backend Developer specializing in **Laravel & scalable web apps**  
